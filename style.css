@@ -1,0 +1,58 @@
+.sidebar{
+    width: 220px;
+    height: 48px;
+    margin-left: 850px;
+    color: black;
+}
+
+.yuvarlak{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    object-fit: cover;
+    margin-left: 10px ;
+    margin-top: 10px;
+}
+
+.profile-img{
+    background:transparent;
+    border:1px solid #000000;
+    box-shadow:3px 3px 3px #c9b9b9; 
+}
+
+
+.main{
+    margin-top: 80px;
+    width: 1080px;
+    height: 200px;
+    text-align: center;
+}
+
+.search-bar{
+    border:2px solid #000000;
+    border-radius: 15px;
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.footer{
+    width: 1080px;
+    height: 100px;
+    margin-top: 80px;
+    background-color:#f2f2f2;
+}
+
+.footer-left{
+    width: 100px;
+    margin-left: 20px;
+    float: left;
+}
+
+.footer-right{
+    width:100px;
+    margin-left: 800px;
+    float: left;
+}
